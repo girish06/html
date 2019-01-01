@@ -1,0 +1,60 @@
+01/01/2019
+=================
+
+HTML:
+=========================================================================================
+ ->HyperText markup language
+ ->Html describes the structure of webpage
+ ->Html contains elements
+ ->Elements are the building blocks of webpage
+ ->Elements have the syntax with open tags and close tags
+   <></>
+   
+ Basic explanation:
+
+ <DOCTYPE html>
+   Represents the document to be html5
+   its not case sensitive
+ <html>
+   Root element of the document
+ <head>
+   contains the meta information of the page
+ <title>
+   it define the page title
+ <body>
+   data visible to the webpage
+   
+ Html editors
+ =====================================================================================
+ 
+ Html basics:
+ =====================================================================================
+ 
+ <p>-paragraph
+ <h>-heading
+ <a>-Link
+ <img>-image
+ <ul>-unordered list
+ <ol>-ordered list
+ 
+ Elements:
+ =====================================================================================
+ 
+ element which dont have any content is called as empty tags.
+ EG. <br> which is not required of close tags
+=====================================================================================
+
+Attributes:
+
+ All elements have attributess
+ Attributes gives additional information to the elements
+ Attributes always start with start tags
+ Attributes will always in the format of key value pair
+ title attributes provides a tool-tip
+ Attributes always enclosed with double quotes
+ Attributes will be always in lower case 
+=====================================================================================
+
+ 
+   
+   
