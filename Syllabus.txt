@@ -46,14 +46,33 @@ HTML:
 
 Attributes:
 
- All elements have attributess
+ All elements have attributes
  Attributes gives additional information to the elements
  Attributes always start with start tags
  Attributes will always in the format of key value pair
  title attributes provides a tool-tip
  Attributes always enclosed with double quotes
  Attributes will be always in lower case 
-=====================================================================================
+====================================================================================
+
+12/01/2019
+
+Headings
+ we have html headings from h1 to h6
+ Each heading element has its defined size.
+ we can overwrite the size of element by css
+ headings are more important since they are used to indexed in google search
+
+Head element
+  Head element defined between html and body tag
+  Head elements contains the meta data of the page
+====================================================================================
+
+ 
+
+
+
+
 
  
    
