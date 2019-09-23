@@ -1,3 +1,31 @@
+23/09/2019
+=================
+paragraphs:
+=========================================================================================
+  <p>
+  p tag defines the paragraph in html
+  only html cannot give the exact output of the page and varies in different devices
+  By default p tag have defined space with margin.
+  
+  <br>
+  Break tag does not have end tag.
+  It is used to break the line into new line.
+  
+  <pre>
+   This tag is defined as preformmated tag.
+   
+
+
+
+styles:
+=================
+  setting style tag element for html can be done using style tag.
+   
+  syntax:  <element style="property:value;">
+   
+
+
+
 01/01/2019
 =================
 
@@ -66,7 +94,10 @@ Headings
 Head element
   Head element defined between html and body tag
   Head elements contains the meta data of the page
-====================================================================================
+  
+<hr> tag is a horizontal line.
+  - used to break the content by line.
+====================================================================================s
 
  
 
